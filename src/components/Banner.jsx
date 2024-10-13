@@ -1,12 +1,20 @@
 import React from 'react'
 import banner from '../assets/banner.jpeg'
-import ban1 from '../assets/ban1.jpeg'
+import bbg from '../assets/bbg.avif'
+
 
 
 export default function Banner() {
   return (
-   <div>
-    
+   <div className="business-theme">
+    <img src={bbg} alt="" className='background-image' />
+    <div className="content font-sans">
+      <h1>NextGenMobiles Comany</h1>
+      <p>Here you can buy all kind's of good quality Mobile's.</p>
+
+    </div>
+   
+     
    </div>
   )
 }

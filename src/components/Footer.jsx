@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="container mx-auto flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
       {/* Left Section */}
       <div className="space-y-2 text-center md:text-left">
-        <h2 className="text-xl font-semibold">NextGenMobile</h2>
+        <h2 className="text-xl font-semibold">NextGenMobiles</h2>
         <p>123 Main Street, Dhaka, Bangladesh</p>
         <p>Email: mr2433399@gmail.com</p>
         <p>Phone: +880 193 079 1594</p>
@@ -37,7 +37,7 @@ export default function Footer() {
       {/* Right Section */}
       <nav>
     <h6 className="footer-title">Social</h6>
-    <div className="grid grid-flow-col gap-4">
+    <div className="grid grid-flow-col gap-4 social">
       <a>
         <svg
           xmlns="http://www.w3.org/2000/svg"

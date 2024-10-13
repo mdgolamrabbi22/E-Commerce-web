@@ -1,10 +1,10 @@
 import React from 'react'
-import logo from '../assets/logo.png'
+import logo1 from '../assets/logo1.png'
 
 
 export default function Header() {
   return (
-    <div className="navbar bg-yellow-400">
+    <div className="navbar bg-yellow-400 fixed z-10">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -37,14 +37,14 @@ export default function Header() {
     </div>
     
     <div className="avatar">
-  <div className="w-10 rounded-full">
-    <img src={logo} />
+  <div className="w-12 rounded-full">
+    <img src={logo1} />
   </div>
 </div>
     <a className="btn btn-ghost text-xl">NextGenMobiles</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
+    <ul className="menu menu-horizontal px-3 text-base">
       <li><a>Home</a></li>
       <li><a>About</a></li>
       <li><a>Contact Us</a></li>
@@ -52,12 +52,12 @@ export default function Header() {
       <li>
         <details>
           <summary>Our Phone</summary>
-          <ul className="p-6">
+          <ul className="p-6 bg-white">
             <li><a>Redmi </a></li>
             <li><a>Realme </a></li>
-            <li><a>Appple </a></li>
+            <li><a>Apple </a></li>
             <li><a>One Plus </a></li>
-            <li><a>Svmsung</a></li>
+            <li><a>Samsung</a></li>
             <li><a>Tecno</a></li>
           </ul>
         </details>

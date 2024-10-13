@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 120.99,
+        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
+        "brand": "Apple",
+        "availability": "In Stock"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 3,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 4,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 5,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 6,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 7,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 8,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 9,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      },
+      {
+        "id": 10,
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+        "brand": "TechMaster",
+        "availability": "In Stock"
+      }
+      
+]

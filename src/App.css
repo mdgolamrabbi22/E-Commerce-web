@@ -1,3 +1,44 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.headline{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+
+.business-theme{
+    position: relative;
+    text-align: center;
+    color: black;
+    
+}
+
+.background-image{
+    width: 100%;
+    height: 100vh;
+    opacity: 0.5;
+}
+
+.content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.content h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.content p{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+
+.social{
+    cursor: pointer;
+}
