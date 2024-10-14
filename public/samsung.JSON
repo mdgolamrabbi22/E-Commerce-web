@@ -1,83 +1,85 @@
 [
+  {
+      "id": 1,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Samsung-Galaxy-A16-5G-Blue-Black.webp",
+      "name": "Samsung Galaxy A16 5G",
+      "price": "35,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
     {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "price": 120.99,
-        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
-        "brand": "samsung",
-        "availability": "In Stock"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 3,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 4,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 5,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 6,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 7,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 8,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 9,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 10,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      }
-      
+      "id": 2,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/02/Samsung-Galaxy-F05-Twilight-Blue.webp",
+      "name": "Samsung Galaxy F05",
+      "price": "15,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/08/Samsung-Galaxy-Z-Fold6-Silver-Shadow-300x300.webp",
+      "name": "Samsung Galaxy Z Fold6",
+      "price": "145,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/05/Samsung-Galaxy-M35-Azul-Escuro-300x300.webp",
+      "name": "Samsung Galaxy M35",
+      "price": "25,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/11/Samsung-Galaxy-M55-Dark-Blue-300x300.webp",
+      "name": "Samsung Galaxy M55",
+      "price": "70,499.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2022/12/Samsung-Galaxy-S24-Ultra-Titanium-Yellow-300x300.webp",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "219,999.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2022/09/Samsung-Galaxy-S24-Onyx-Black-300x300.webp",
+      "name": "Samsung Galaxy S24",
+      "price": "68,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 8,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/02/Samsung-Galaxy-S23-FE-Purple-300x300.webp",
+      "name": "Samsung Galaxy S23 FE",
+      "price": "99,999.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    },
+    {
+      "id": 9,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2022/10/Samsung-Galaxy-M54-Dark-Blue-300x300.jpg",
+      "name": "Samsung Galaxy M54",
+      "price": "22,000.00",
+      "description": "Display :6.7 1080x2340 pixels. Camera :50MP 1080p. RAM :4/8GB RAM Dimensity 6300. Battery :5000mAh 25W.",
+      "brand": "Samsung",
+      "availability": "In Stock"
+    }
+    
+    
 ]

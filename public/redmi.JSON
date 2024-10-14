@@ -1,83 +1,83 @@
 [
+  {
+      "id": 1,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Xiaomi-Redmi-Note-14-Pro-Plus-Black-300x300.webp",
+      "name": "Redmi Note 14 Pro+",
+      "price": "41,000.00",
+      "description": "Display:6.67 1220x2712 pixels. Camera:50MP 2160p. RAM:12/16GB RAM Snapdragon 7s Gen 3.Battery:6200mAh 90W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
     {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "price": 120.99,
-        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
-        "brand": "Redmi",
-        "availability": "In Stock"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 3,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 4,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 5,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 6,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 7,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 8,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 9,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 10,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      }
-      
-]
+      "id": 2,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Xiaomi-Redmi-Note-14-Pro-Black.webp",
+      "name": "Redmi Note 14 Pro",
+      "price": "35,000.00",
+      "description": "Display :6.67 1220x2712 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Ultra. Battery :5500mAh 45W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/08/Xiaomi-14T-Pro-Titan-Blue.webp",
+      "name": "Redmi 14T Pro",
+      "price": "1,25,000.00",
+      "description": "Display :6.67 1220x2712 pixels. Camera :50MP 4320p. RAM :12/16GB RAM Dimensity 9300+. Battery :5500mAh 120W 50W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/09/Xiaomi-Redmi-14R-Black.webp",
+      "name": "Redmi 14R",
+      "price": "20,000.00",
+      "description": "Display :6.88 720x1640 pixels. Camera :13MP 1080p. RAM :4-8GB RAM Snapdragon 4 Gen 2. Battery :5160mAh 18W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/07/Xiaomi-Redmi-K70-Ultra-Black.webp",
+      "name": "Redmi K70 Ultra",
+      "price": "45,000.00",
+      "description": "Display :6.67 1220x2712 pixels. Camera :50MP 4320p. RAM :12-24GB RAM Dimensity 9300+. Battery :5500mAh 120W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/04/Xiaomi-Redmi-13-5G-Black.webp",
+      "name": "Redmi 13 5G",
+      "price": "25,000.00",
+      "description": "Display :6.79 1080x2460 pixels. Camera :108MP 1080p. RAM :6/8GB RAM Snapdragon 4 Gen 2 AE. Battery :5030mAh 33W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/11/Xiaomi-Redmi-Note-13-Pro-4G-Midnight-Black.webp",
+      "name": "Redmi Note 13 Pro 4G",
+      "price": "28,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :200MP 2160p. RAM :8/12GB RAM Helio G99 Ultra. Battery :5000mAh Li-Po.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 8,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/12/Xiaomi-Redmi-A3-Midnight-Black.webp",
+      "name": "Redmi A3",
+      "price": "10,999.00",
+      "description": "Display :6.71 720x1650 pixels. Camera :8MP 1080p. RAM :3-6GB RAM Helio G36. Battery :5000mAh 10W.",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    },
+    {
+      "id": 9,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/10/Xiaomi-Redmi-Note-13-4G-Midnight-Black.webp",
+      "name": "Redmi Note 13 4G",
+      "price": "22,999.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :108MP 1080p. RAM :6/8GB RAM Snapdragon 685. Battery :5000mAh Li-Po",
+      "brand": "Xiaomi",
+      "availability": "In Stock"
+    }
+] 

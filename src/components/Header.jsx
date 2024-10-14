@@ -1,10 +1,12 @@
 import React from 'react'
 import logo1 from '../assets/logo1.png'
+import mypic3 from '../assets/mypic3.jpg'
+import { Link } from 'react-router-dom'
 
 
 export default function Header() {
   return (
-    <div className="navbar bg-yellow-400 fixed z-10">
+    <div className="navbar bg-yellow-400 relative z-10">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -45,20 +47,20 @@ export default function Header() {
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-3 text-base">
-      <li><a>Home</a></li>
-      <li><a>About</a></li>
-      <li><a>Contact Us</a></li>
-      <li><a>Blog</a></li>
+    <li><Link to="/">Home</Link></li>
+        <li><Link to="/about">About</Link></li>
+        <li><Link to="/contact">Contact Us</Link></li>
+        <li><Link to="/blog">Blog</Link></li>
       <li>
         <details>
           <summary>Our Phone</summary>
           <ul className="p-6 bg-white">
-            <li><a>Redmi </a></li>
-            <li><a>Realme </a></li>
-            <li><a>Apple </a></li>
-            <li><a>One Plus </a></li>
-            <li><a>Samsung</a></li>
-            <li><a>Tecno</a></li>
+            <li><Link to="/redmi">Redmi </Link></li>
+            <li><Link to="/realme">Realme </Link></li>
+            <li><Link to="/apple">Apple </Link></li>
+            <li><Link to="/oneplus">One Plus </Link></li>
+            <li><Link to="/samsung">Samsung </Link></li>
+            <li><Link to="/tecno">Tecno </Link></li>
           </ul>
         </details>
       </li>
@@ -124,7 +126,7 @@ export default function Header() {
         <div className="w-10 rounded-full">
           <img
             alt="Tailwind CSS Navbar component"
-            src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" />
+            src={mypic3} />
         </div>
       </div>
       <ul
@@ -136,8 +138,8 @@ export default function Header() {
             <span className="badge">New</span>
           </a>
         </li>
-        <li><a>Sign up</a></li>
-        <li><a>Log In</a></li>
+        <li><Link to="/signup">Sign Up </Link></li>
+        <li><Link to="/login">Log In </Link></li>
       </ul>
     </div>
   </div>

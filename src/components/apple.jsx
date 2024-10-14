@@ -1,7 +1,8 @@
 import React from 'react'
 import { useEffect, useState } from "react"
 
-export default function apple(props) {
+
+export default function Apple(props) {
 
     const {handleAddToCart} = props
 
@@ -14,16 +15,17 @@ export default function apple(props) {
 
   return (
     <div >
+      
     <h1 className="text-center text-4xl m-10 text-amber-500 font-bold"> Apple Phone</h1>
     <div className="grid grid-cols-3 gap-3">
   {
       products.map(product=><div className="card bg-base-100 w-96 shadow-xl">
         
         <div className="card-body">
-          
+        <img src={product.image} /> 
           <h2 className="card-title">{product.name}</h2>
           <p>{product.description}</p>
-          <p>$ {product.price}</p>
+          <p>৳ {product.price}</p>
           
           <p>{product.brand}</p>
           <p>{product.availability}</p>

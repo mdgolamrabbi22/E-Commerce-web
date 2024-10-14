@@ -1,5 +1,4 @@
 import React from 'react'
-import banner from '../assets/banner.jpeg'
 import bbg from '../assets/bbg.avif'
 
 

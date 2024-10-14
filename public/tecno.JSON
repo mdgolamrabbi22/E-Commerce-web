@@ -1,83 +1,83 @@
 [
+  {
+      "id": 1,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/10/Tecno-Camon-30S-Celestial-Black.webp",
+      "name": "Tecno Camon 30S",
+      "price": "30,000.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
     {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "price": 120.99,
-        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
-        "brand": "Tecno",
-        "availability": "In Stock"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 3,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 4,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 5,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 6,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 7,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 8,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 9,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 10,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      }
-      
+      "id": 2,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/10/Tecno-Spark-30-5G-Midnight-Shadow.webp",
+      "name": "Tecno Spark 30 5G",
+      "price": "Coming soon",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/04/Tecno-Phantom-V-Flip2-Travertine-Green.webp",
+      "name": "Tecno Phantom V Flip2",
+      "price": "Coming soon",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/08/Tecno-Spark-Go-1-Startrail-Black-300x300.webp",
+      "name": "Tecno Spark Go 1",
+      "price": "10,999.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/10/Tecno-Spark-20-Pro-Moonlit-Black-300x300.webp",
+      "name": "Tecno Spark 20 Pro",
+      "price": "19,999.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/08/Tecno-Camon-20-Pro-Mr-Doodle-Edition-Night-300x300.webp",
+      "name": "Tecno Camon 20 Pro",
+      "price": "24,990.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/07/Tecno-Phantom-V-Flip-Mystic-Dawn-1-300x300.webp",
+      "name": "Tecno Phantom V Flip",
+      "price": "80,990.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 8,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/06/Tecno-Pova-5-Pro-300x300.jpg",
+      "name": "Tecno Pova 5 Pro",
+      "price": "20,000.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    },
+    {
+      "id": 9,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2023/04/Tecno-Camon-20-Pro-Predawn-Black-300x300.jpg",
+      "name": "Tecno Camon 20 Pro",
+      "price": "21,999.00",
+      "description": "Display :6.78 1080x2436 pixels. Camera :50MP 2160p. RAM :6/8GB RAM Helio G100. Battery :5000mAh 33W.",
+      "brand": "Tecno",
+      "availability": "In Stock"
+    }
 ]

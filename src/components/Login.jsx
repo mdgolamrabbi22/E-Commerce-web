@@ -21,24 +21,26 @@ const Login = () => {
 
   return (
     <div style={styles.container}>
-      <h2>Login</h2>
+      <h2 className="mb-5">Login</h2>
       <form onSubmit={handleSubmit} style={styles.form}>
         <div style={styles.formGroup}>
-          <label htmlFor="email">Email</label>
+          <label className="mr-5" htmlFor="email">Email :</label>
           <input
             type="email"
             id="email"
             name="email"
+            placeholder="email"
             value={formData.email}
             onChange={handleChange}
             required
           />
         </div>
         <div style={styles.formGroup}>
-          <label htmlFor="password">Password</label>
+          <label className="mr-5" htmlFor="password">Password :</label>
           <input
             type="password"
             id="password"
+            placeholder="password"
             name="password"
             value={formData.password}
             onChange={handleChange}
@@ -54,7 +56,7 @@ const Login = () => {
 const styles = {
   container: {
     maxWidth: "400px",
-    margin: "0 auto",
+    margin: "180px auto",
     padding: "20px",
     textAlign: "center",
     border: "1px solid #ddd",

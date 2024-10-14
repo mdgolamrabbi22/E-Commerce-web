@@ -22,38 +22,41 @@ const Signup = () => {
 
   return (
     <div style={styles.container}>
-      <h2>Sign Up</h2>
+      <h2 className="mb-5">Sign Up</h2>
       <form onSubmit={handleSubmit} style={styles.form}>
         <div style={styles.formGroup}>
-          <label htmlFor="name">Name</label>
+          <label className="mr-5" htmlFor="name" >Name :</label>
           <input
             type="text"
             id="name"
             name="name"
+            placeholder="Your name"
             value={formData.name}
             onChange={handleChange}
             required
           />
         </div>
         <div style={styles.formGroup}>
-          <label htmlFor="email">Email</label>
+          <label className="mr-5" htmlFor="email">Email :</label>
           <input
             type="email"
             id="email"
             name="email"
+            placeholder=" Your email"
             value={formData.email}
             onChange={handleChange}
             required
           />
         </div>
         <div style={styles.formGroup}>
-          <label htmlFor="password">Password</label>
+          <label className="mr-5" htmlFor="password">Password :</label>
           <input
             type="password"
             id="password"
             name="password"
             value={formData.password}
             onChange={handleChange}
+            placeholder="Your password"
             required
           />
         </div>
@@ -66,7 +69,7 @@ const Signup = () => {
 const styles = {
   container: {
     maxWidth: "400px",
-    margin: "0 auto",
+    margin: "180px auto",
     padding: "20px",
     textAlign: "center",
     border: "1px solid #ddd",
@@ -79,6 +82,8 @@ const styles = {
   },
   formGroup: {
     marginBottom: "15px",
+    
+
   },
   button: {
     padding: "10px 20px",

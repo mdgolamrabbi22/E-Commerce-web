@@ -1,6 +1,7 @@
 import React from 'react'
 import { useEffect, useState } from "react"
 
+
 export default function Oneplus(props) {
 
     const {handleAddToCart} = props
@@ -14,6 +15,7 @@ export default function Oneplus(props) {
 
   return (
     <div >
+      
     <h1 className="text-center text-4xl m-10 text-amber-500 font-bold"> One Plus Phone</h1>
     <div className="grid grid-cols-3 gap-3">
   {

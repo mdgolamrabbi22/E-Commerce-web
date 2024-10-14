@@ -11,6 +11,13 @@ import Apple from './components/Apple'
 import Oneplus from './components/Oneplus'
 import Samsung from './components/Samsung'
 import Tecno from './components/Tecno'
+import { createBrowserRouter, RouterProvider,
+  Route,
+  Link,
+  Routes, } from "react-router-dom"
+  import  routes  from "./routes/Routes"
+  
+
 
 
 
@@ -21,8 +28,8 @@ function App() {
   return (
     <>
 
-    
-    <Header/>
+    <RouterProvider router={routes} />
+    {/* <Header/>
     <Banner/>
     <h1 className='text-center text-4xl m-10 text-amber-500 font-bold' >Our All Products</h1>
     <Redmi/>
@@ -32,7 +39,7 @@ function App() {
     <Samsung/>
     <Tecno/>
     <div className="min-h-screen"></div>
-    <Footer/>
+    <Footer/> */}
   </>
   )
 }

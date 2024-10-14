@@ -1,83 +1,85 @@
 [
+  {
+      "id": 1,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/08/Realme-13-Plus-Dark-Purple.webp",
+      "name": "Realme P1 Speed",
+      "price": "Coming soon",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
     {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "price": 120.99,
-        "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
-        "brand": "Realme",
-        "availability": "In Stock"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 3,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 4,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 5,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 6,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 7,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 8,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 9,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      },
-      {
-        "id": 10,
-        "name": "Smartphone",
-        "price": 799.99,
-        "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
-        "brand": "TechMaster",
-        "availability": "In Stock"
-      }
-      
+      "id": 2,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/07/Realme-Note-60-Marble-Black-300x300.webp",
+      "name": "Realme Note 60",
+      "price": "11,999.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/08/Realme-13-Plus-Dark-Purple-300x300.webp",
+      "name": "Realme 13+",
+      "price": "31,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 4,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/01/Realme-13-Dark-Purple.webp",
+      "name": "Realme 13",
+      "price": "28,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/01/Realme-13-Pro-Plus-Emerald-Green.webp",
+      "name": "Realme 13 Pro+",
+      "price": "48,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/06/Realme-12-4G-Pioneer-Green.webp",
+      "name": "Realme 12 4G",
+      "price": "29,999.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/07/Realme-Narzo-N61-Marble-Black.webp",
+      "name": "Realme Narzo N61",
+      "price": "12,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 8,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/05/Realme-GT-6T-Razor-Green.webp",
+      "name": "Realme GT 6T",
+      "price": "45,000.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    },
+    {
+      "id": 9,
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2024/04/Realme-C65-Black.webp",
+      "name": "Realme C65",
+      "price": "19,999.00",
+      "description": "Display :6.67 1080x2400 pixels. Camera :50MP 2160p. RAM :8/12GB RAM Dimensity 7300 Energy. Battery :5000mAh 80W.",
+      "brand": "Realme",
+      "availability": "In Stock"
+    }
+    
+    
 ]
